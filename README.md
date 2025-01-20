@@ -23,8 +23,8 @@ cd caixa-eletronico
 
 ## Como Funciona
 1. Saldo Atual: O saldo é gerado aleatoriamente toda vez que a página é recarregada.
-2. Cálculo de Saque: O usuário insere o valor desejado no campo "Valor do Saque" e clica no botão "Calcular".
-3. Resultado: O sistema verifica se há saldo suficiente e calcula a quantidade de cada cédula necessária para o saque. Se o saldo for insuficiente, uma mensagem de "Saldo insuficiente" será exibida.
+2. Cálculo de Saque: O usuário insere o valor desejado no campo "Valor do Saque" e clica no botão "Sacar".
+3. Resultado: O sistema verifica se há saldo suficiente e calcula a quantidade de cada cédula necessária para o saque. Se o saldo for insuficiente, uma mensagem de "Saldo insuficiente" será exibida, se for suficiente, as cédulas são informadas.
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou enviar um pull request.
