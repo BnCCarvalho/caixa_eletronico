@@ -14,13 +14,6 @@ Este projeto é um simulador de Caixa Eletrônico desenvolvido com HTML, CSS e J
 - **CSS3**
 - **JavaScript (ES6)**
 
-## Estrutura do Projeto
-```plaintext
-├── index.html
-├── styles
-│   └── styles.css
-└── script.js
-
 ## Como Utilizar
 Clone:
 git clone https://github.com/seu-usuario/caixa-eletronico.git
@@ -35,3 +28,10 @@ cd caixa-eletronico
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou enviar um pull request.
+
+## Estrutura do Projeto
+```plaintext
+├── index.html
+├── styles
+│   └── styles.css
+└── script.js
